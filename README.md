@@ -26,3 +26,9 @@ This project consists of a backend API and a frontend application to manage tran
    ```bash
    cd client
 4. npm i
+
+#output
+
+![image](https://github.com/Yash-wardhan/MERN-Stack-Coding-Challenge/assets/56475291/609d2226-6a8f-491e-b6ef-bafa79cbeef9)
+
+![image](https://github.com/Yash-wardhan/MERN-Stack-Coding-Challenge/assets/56475291/a26d0669-e417-4b29-9796-927913aa98dc)
